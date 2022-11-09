@@ -18,7 +18,7 @@ Practicas de uso de git desde terminal
 
 	    6   Borro carpeta out en windows, git status, git add . y commiteo el cambio
 
-	    7	creo el repositorio en github y añado ubicacion remota en git (./img/Añadirremoto.PNG))
+	    7	creo el repositorio en github y añado ubicacion remota en git (./img/Añadoremoto.PNG))
 
 	    8   hago push
                 $ git push origin master
