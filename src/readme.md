@@ -34,3 +34,8 @@ Practicas de uso de git desde terminal
                 * [new branch]      master -> master
 
 	    9  añado este texto al readme.md
+
+        10  introduzco un TODO en el main
+            (git status, git add . , git status, git commit -m "xxx", git status, git push origin master)
+
+	   11  modifico el .gitignore añadiendo extension
