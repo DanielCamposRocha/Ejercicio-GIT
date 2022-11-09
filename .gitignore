@@ -25,3 +25,5 @@
 *.log
 *.sql
 *.sqlite
+
+*.android_data_binding
