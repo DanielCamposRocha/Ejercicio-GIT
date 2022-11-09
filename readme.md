@@ -1,8 +1,8 @@
 # Ejercicio-GIT
 Practicas de uso de git desde terminal
 
-1 paso crear proyecto con Intellij (./.img/CreaProyecto.PNG)
-
+	1 paso crear proyecto con Intellij 
+		![Creación de Priyecto](./img/CreaProyecto.png)
 	    2 Abro terminal en la carpeta del proyecto y  hago:
 		      Git init
 		      git add .
