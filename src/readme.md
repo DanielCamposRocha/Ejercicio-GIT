@@ -1,7 +1,7 @@
 # Ejercicio-GIT
 Practicas de uso de git desde terminal
 
-1 paso crear proyecto con Intellij [imagen]
+1 paso crear proyecto con Intellij (./.img/CreaProyecto.PNG)
 
 	    2 Abro terminal en la carpeta del proyecto y  hago:
 		      Git init
@@ -18,10 +18,9 @@ Practicas de uso de git desde terminal
 
 	    6   Borro carpeta out en windows, git status, git add . y commiteo el cambio
 
-	    7	creo el repositorio en github y añado ubicacion remota en git [imagen]
+	    7	creo el repositorio en github y añado ubicacion remota en git (./.img/Añadirremoto.png))
 
 	    8   hago push
-                a22danielcr@W10N-I8E08 MINGW64 /e/Contornos/Intellij/Ejemplo-Git (master)
                 $ git push origin master
                 Enumerating objects: 31, done.
                 Counting objects: 100% (31/31), done.
