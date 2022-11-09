@@ -2,7 +2,7 @@
 Practicas de uso de git desde terminal
 
 	1 paso crear proyecto con Intellij 
-		![Creación de Priyecto](./img/CreaProyecto.png)
+		![Creación de Priyecto](./img/CreaProyecto.PNG)
 	    2 Abro terminal en la carpeta del proyecto y  hago:
 		      Git init
 		      git add .
@@ -18,7 +18,7 @@ Practicas de uso de git desde terminal
 
 	    6   Borro carpeta out en windows, git status, git add . y commiteo el cambio
 
-	    7	creo el repositorio en github y añado ubicacion remota en git (./.img/Añadirremoto.png))
+	    7	creo el repositorio en github y añado ubicacion remota en git (./img/Añadirremoto.PNG))
 
 	    8   hago push
                 $ git push origin master
