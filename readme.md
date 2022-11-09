@@ -1,28 +1,30 @@
 # Ejercicio-GIT
 Practicas de uso de git desde terminal
-1 paso crear proyecto con Intellij 
+	
+	1 paso crear proyecto con Intellij 
+	
 ![Creación de Priyecto](./img/CreaProyecto.PNG)
 	   
 	   
-	   2 Abro terminal en la carpeta del proyecto y  hago:
+	  2 Abro terminal en la carpeta del proyecto y  hago:
 		      Git init
 		      git add .
 		      git commit -m "empiezo nuevo proyecto"
 	    
-	    3   Ejecuto el main del proyecto y hago commit
+	  3   Ejecuto el main del proyecto y hago commit
 
-	    4   creo un .gitignore con un bloc de notas y le pego una serie de extensiones 
+	  4   creo un .gitignore con un bloc de notas y le pego una serie de extensiones 
 		bajadas de un repositorio de github.
 
-	    5   Copio las clases empleado y main del proyecto original y ejecuto para 
+	  5   Copio las clases empleado y main del proyecto original y ejecuto para 
 		comprobar que funcionen.
 
-	    6   Borro carpeta out en windows, git status, git add . y commiteo el cambio
+	  6   Borro carpeta out en windows, git status, git add . y commiteo el cambio
 
-	    7	creo el repositorio en github y añado ubicacion remota en git 
+	  7	creo el repositorio en github y añado ubicacion remota en git 
 ![Añado remoto](./img/Añadoremoto.png)
 
-	    8   hago push
+	  8   hago push
                 $ git push origin master
                 Enumerating objects: 31, done.
                 Counting objects: 100% (31/31), done.
@@ -34,9 +36,11 @@ Practicas de uso de git desde terminal
                 To https://github.com/DanielCamposRocha/Ejercicio-GIT.git
                 * [new branch]      master -> master
 
-	    9  añado este texto al readme.md
+	 9  añado este texto al readme.md
 
-        10  introduzco un TODO en el main
-            (git status, git add . , git status, git commit -m "xxx", git status, git push origin master)
+    10  introduzco un TODO en el main
+          (git status, git add . , git status, git commit -m "xxx", git status, git push origin master)
 
-	   11  modifico el .gitignore añadiendo extension
+    11  modifico el .gitignore añadiendo extension
+	
+	12  ultima modificacion del readme para añadir imagenes
